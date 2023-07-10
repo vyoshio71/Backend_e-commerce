@@ -26,11 +26,15 @@
     npm install
   ```
 3. Iniciar servidor
-  #Inicia o servidor em modo de desenvolvimento
-  npm run dev
-  #O servidor abrirá na porta 3333.
-  #Você pode acessar a documentação em http://localhost:3333/produtos
-  
+
+  ```bash
+    # Inicia o servidor em modo de desenvolvimento
+    npm run dev
+
+    # O servidor abrirá na porta 3333.
+
+    # Você pode acessar a documentação com Swagger em http://localhost:3333/produtos
+  ```    
 
 
 
