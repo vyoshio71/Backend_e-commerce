@@ -16,8 +16,10 @@
 ```
   # Clona o projeto para sua máquina
   https://github.com/vyoshio71/backend-Ecommerce.git
+
   # Entra na pasta do projeto
   cd backend-Ecommerce
+
   # Instalar as dependências
   npm install
 ```
