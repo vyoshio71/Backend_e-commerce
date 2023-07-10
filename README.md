@@ -11,18 +11,20 @@
 ![Diagrama de relacionamento](https://github.com/vyoshio71/backend-Ecommerce/assets/116774749/85c43c98-3593-40aa-ba87-4348cdc6f7b2)
 
 ### 🔧 Instalação
-1. Você precisará ter o Node.js instalado
+1. Você precisará ter o [Node.js](https://nodejs.org/en/) instalado
+
 2. Instalação
-```
-  # Clona o projeto para sua máquina
-  https://github.com/vyoshio71/backend-Ecommerce.git
 
-  # Entra na pasta do projeto
-  cd backend-Ecommerce
+  ```bash
+    # Clona o projeto para sua máquina
+    git clone https://github.com/vyoshio71/backend-Ecommerce.git
 
-  # Instalar as dependências
-  npm install
-```
+    # Entra na pasta do projeto
+    cd backend-Ecommerce
+
+    # Instala as dependências
+    npm install
+  ```
 3. Iniciar servidor
   #Inicia o servidor em modo de desenvolvimento
   npm run dev
