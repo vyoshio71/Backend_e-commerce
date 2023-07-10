@@ -14,11 +14,11 @@
 1. Você precisará ter o Node.js instalado
 2. Instalação
 ```
-  #Clona o projeto para sua máquina
+  # Clona o projeto para sua máquina
   https://github.com/vyoshio71/backend-Ecommerce.git
-  #Entra na pasta do projeto
+  # Entra na pasta do projeto
   cd backend-Ecommerce
-  #Instalar as dependências
+  # Instalar as dependências
   npm install
 ```
 3. Iniciar servidor
